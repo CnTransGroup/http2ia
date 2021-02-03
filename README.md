@@ -6,7 +6,7 @@
 >
 > 要理解HTTP/2为何在Web性能领域中引起轰动，首先要了解有什么问题需要解决和为什么需要它。因此，本书的第一部分就向那些不熟悉HTTP/1的读者介绍HTTP/1；然后阐述为什么需要HTTP/2。从一个较高的角度讨论HTTP/2如何工作，低层面的细节留在本书的后面部分再讨论。相反，通过讨论如何将HTTP/2部署到你的站点来结束本部分。
 
-[1. Web技术与HTTP@doing](part1.moving_to_http2/1.web_technologies_and_http.md)
+[1. Web技术与HTTP](part1.moving_to_http2/1.web_technologies_and_http.md)
 
 [2. 总览HTTP/2@todo](part1.moving_to_http2/2.the_road_to_http2.md)
 
