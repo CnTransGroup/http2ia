@@ -1,6 +1,6 @@
 +++
 title = "http2ia"
-template = "ddia_section.html"
+template = "http2ia_section.html"
 sort_by = "weight"
 paginate_by = 100
 weight = 997
