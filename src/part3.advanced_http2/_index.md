@@ -1,12 +1,3 @@
-+++
-title = "part3. Advanced HTTP2"
-template = "http2ia_section.html"
-sort_by = "weight"
-paginate_by = 100
-weight = 2
-+++
-
-
 > Part3 
 >
 > 本书的第一部分介绍了 HTTP/2。第二部分了解了 HTTP/2 的细节以及如何使用。第 4 章介绍了 HTTP/2 的基本概念以及如何工作；第 5 章描述了 HTTP/2 的 PUSH，对于 HTTP 来说一个新的概念；第 6 章研究了 HTTP/2 应该或者不应该改变开发的实践。

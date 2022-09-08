@@ -1,11 +1,3 @@
-+++
-title = "part4. The Future of HTTP"
-template = "http2ia_section.html"
-sort_by = "weight"
-paginate_by = 100
-weight = 3
-+++
-
 > Part4
 >
 > 到了这里，你应该对于 HTTP/2 有了深入的理解并完全了解了规范。在这最后的部分，我们来讨论一下 HTTP 的未来。HTTP/2 被越来越多的网站所使用，但是帮助定义 Internet 协议的人并没有为此感到骄傲。在某些方面，HTTP/2 是个老新闻，人们已经开始关注下一代改进的协议。

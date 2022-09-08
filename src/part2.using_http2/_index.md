@@ -1,11 +1,3 @@
-+++
-title = "part2.Using HTTP2"
-template = "http2ia_section.html"
-sort_by = "weight"
-paginate_by = 100
-weight = 1
-+++
-
 > Part2
 >
 > 在本书的第一部分，我介绍了 HTTP/2 的需要和动机，介绍了 HTTP/2 本身，描述了如何在你的站点部署 HTTP/2。对很多人来说，这些信息就足够了，即使不做任何改变升级到 HTTP/2 也能获得回报。HTTP/2 的设计易于迁移到大多数站点，并为它们带来了直接好处，而无需任何更改。
