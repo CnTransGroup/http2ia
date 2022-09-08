@@ -8,4 +8,6 @@ title = "Http2 In Action"
 [output.html]
 mathjax-support = true
 no-section-label = true
+git-repository-url = "https://github.com/CnTransGroup/http2ia"
+git-repository-icon = "fa-github"
 
