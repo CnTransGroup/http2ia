@@ -4,3 +4,8 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Http2 In Action"
+
+[output.html]
+mathjax-support = true
+no-section-label = true
+
